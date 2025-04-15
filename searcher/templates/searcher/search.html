@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Search</title>
+</head>
+<body>
+    <h2>Upload an image to search</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Search</button>
+    </form>
+
+    {% if results %}
+        <h3>Top Matches:</h3>
+        {% for path in results %}
+            <div style="display:inline-block; text-align:center; margin:10px;">
+                <img src="{{ path }}" width="200" style="border:1px solid #ccc;" onerror="this.style.display='none'">
+            </div>
+        {% endfor %}
+    {% elif form.is_bound %}
+        <p>No matches found. Try a different image.</p>
+    {% endif %}
+</body>
+</html>
