@@ -21,7 +21,7 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 | Stack        | Technologies                                                                 |
 |--------------|-------------------------------------------------------------------------------|
 | Frontend     | React, Tailwind CSS, Vite, JSX, GitHub Pages                                 |
-| Backend      | Django, Django REST Framework, Python, CLIP (PyTorch), FAISS                 |
+| Backend      | Django, Python, CLIP (PyTorch), FAISS                 |
 | AI/ML        | OpenAI CLIP model (`ViT-B/32`), Torch, NumPy, PIL                             |
 | Deployment   | Git, GitHub, GitHub Pages (React only version)                               |
 | Utilities    | CSRF handling, custom reload endpoint, dynamic embedding updates             |
@@ -43,7 +43,8 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ## 🖼️ Demo Screenshot
 
-![demo](./screenshot.png) <!-- Replace with an actual screenshot path or GitHub URL -->
+![demo](![Screenshot 2025-04-14 211707](https://github.com/user-attachments/assets/eec14247-f28f-40e4-8020-30229b6e71b8)
+) <!-- Replace with an actual screenshot path or GitHub URL -->
 
 ---
 
