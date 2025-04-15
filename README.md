@@ -4,7 +4,7 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔎 Upload any image to search against a dataset of sample images
 - 🎯 Returns top 3 visually similar matches using FAISS and CLIP
