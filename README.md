@@ -1,4 +1,4 @@
-# 🔍 Visual Search Engine — React + Django + OpenAI CLIP
+#  Visual Search Engine — React + Django + OpenAI CLIP
 
 A powerful, AI-powered visual search engine that allows users to upload an image and instantly find visually similar images using OpenAI’s CLIP model. Built from scratch with a beautiful UI, smooth performance, and full-stack integration.
 
@@ -30,14 +30,14 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ##  Skills Demonstrated
 
-- ✅ Full-stack application development (frontend + backend)
-- ✅ REST API creation and integration with React
-- ✅ Implementing and working with pretrained AI models
-- ✅ Image embedding, normalization, and similarity search (cosine similarity via FAISS)
-- ✅ State management in React with `useState`
-- ✅ Tailwind CSS for responsive, modern styling
-- ✅ Git/GitHub workflow, deployment with GitHub Pages
-- ✅ Clean UI/UX, loading states, error handling, and file upload
+-  Full-stack application development (frontend + backend)
+-  REST API creation and integration with React
+-  Implementing and working with pretrained AI models
+-  Image embedding, normalization, and similarity search (cosine similarity via FAISS)
+-  State management in React with `useState`
+-  Tailwind CSS for responsive, modern styling
+-  Git/GitHub workflow, deployment with GitHub Pages
+-  Clean UI/UX, loading states, error handling, and file upload
 
 ---
 
