@@ -6,17 +6,17 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ##  Features
 
-- 🔎 Upload any image to search against a dataset of sample images
-- 🎯 Returns top 3 visually similar matches using FAISS and CLIP
-- 🧠 Built on OpenAI’s CLIP (ViT-B/32) for deep semantic + visual encoding
-- 🖥️ Frontend built with React + Tailwind CSS (fully responsive)
-- 🐍 Backend powered by Django + PyTorch + FAISS
-- 🧊 Reloadable index without server restart
-- 🎨 Beautiful UI with background image, styled buttons, and responsive grid
+-  Upload any image to search against a dataset of sample images
+-  Returns top 3 visually similar matches using FAISS and CLIP
+-  Built on OpenAI’s CLIP (ViT-B/32) for deep semantic + visual encoding
+-  Frontend built with React + Tailwind CSS (fully responsive)
+-  Backend powered by Django + PyTorch + FAISS
+-  Reloadable index without server restart
+-  Beautiful UI with background image, styled buttons, and responsive grid
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Stack        | Technologies                                                                 |
 |--------------|-------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - ✅ Full-stack application development (frontend + backend)
 - ✅ REST API creation and integration with React
@@ -48,7 +48,7 @@ A powerful, AI-powered visual search engine that allows users to upload an image
 
 ---
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # Clone the repo
